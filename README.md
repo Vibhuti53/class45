@@ -1,2 +1,1 @@
-# class45
-zombie shooter 1
+# Zombie-Shooter-Blank-Template
